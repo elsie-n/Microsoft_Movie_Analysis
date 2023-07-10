@@ -1,5 +1,5 @@
 # Microsoft Movies Analysis
-This an anayis project that aims at analyzing and deriving findings that will give helpful insights to microsoft company looking at starting a movie studio.
+This an analysis project that aims at analyzing and deriving findings that will give helpful insights to Microsoft company looking at starting a movie studio.
 
 Settled on using three datasets namely:
 - imdb.title.basics
